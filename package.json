@@ -1,0 +1,29 @@
+{
+  "name": "jimeng-video-parser",
+  "version": "1.0.0",
+  "description": "即梦视频无水印解析工具",
+  "main": "server.js",
+  "bin": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "build": "pkg . --compress GZip --output dist/jimeng-parser.exe",
+    "bundle-runtime": "node scripts/bundle-runtime.js",
+    "package-portable": "npm run build && npm run bundle-runtime",
+    "release": "npm run package-portable"
+  },
+  "pkg": {
+    "assets": [
+      "public/**/*"
+    ],
+    "targets": [
+      "node18-win-x64"
+    ],
+    "outputPath": "dist"
+  },
+  "devDependencies": {
+    "@yao-pkg/pkg": "^6.19.0"
+  },
+  "dependencies": {
+    "playwright": "^1.59.1"
+  }
+}

@@ -1,0 +1,367 @@
+{
+  "common_attr": {
+    "id": "7594153489412951347",
+    "effect_id": "7594153489412951347",
+    "effect_type": 9,
+    "title": "",
+    "description": "",
+    "cover_url": "https://p26-dreamina-sign.byteimg.com/tos-cn-i-tb4s082cfz/8ddfdd95b8f244ffb0fd678491a8e573~tplv-tb4s082cfz-aigc_resize:2048:2048.webp?lk3s=4fa96020&x-expires=1780704000&x-signature=YnEhDD3Jv%2BpzxjLrX%2BT208GFrx0%3D",
+    "item_urls": [
+      ""
+    ],
+    "md5": "",
+    "create_time": 1768151692,
+    "status": 102,
+    "review_info": {
+      "review_status": 100,
+      "review_code_list": []
+    },
+    "aspect_ratio": 0.5625,
+    "publish_source": "user_post_mweb_item",
+    "collection_ids": [],
+    "extra": "{\"eco_rate\":0,\"scenario_card_ids\":[7520548525021711641],\"web_rate\":12,\"web_eco_rate\":0,\"rate\":12}",
+    "has_published": true,
+    "published_item_id": "7594153489412951347",
+    "cover_url_map": {
+      "1080": "https://p26-dreamina-sign.byteimg.com/tos-cn-i-tb4s082cfz/8ddfdd95b8f244ffb0fd678491a8e573~tplv-tb4s082cfz-aigc_resize_loss:1080:1080.webp?lk3s=4fa96020&x-expires=1780704000&x-signature=DMvwkYGCfbf3gf%2F5MKoGRuBOvj8%3D",
+      "2048": "https://p11-dreamina-sign.byteimg.com/tos-cn-i-tb4s082cfz/8ddfdd95b8f244ffb0fd678491a8e573~tplv-tb4s082cfz-aigc_resize:2048:2048.webp?lk3s=4fa96020&x-expires=1780704000&x-signature=oru2OnVSjepa7AqpflF%2FkaRKabA%3D",
+      "360": "https://p11-dreamina-sign.byteimg.com/tos-cn-i-tb4s082cfz/8ddfdd95b8f244ffb0fd678491a8e573~tplv-tb4s082cfz-aigc_resize_loss:360:360.webp?lk3s=4fa96020&x-expires=1780704000&x-signature=C%2Bv5IehkIuL4fMgvNGyhIb4Vw%2Bg%3D",
+      "480": "https://p11-dreamina-sign.byteimg.com/tos-cn-i-tb4s082cfz/8ddfdd95b8f244ffb0fd678491a8e573~tplv-tb4s082cfz-aigc_resize_loss:480:480.webp?lk3s=4fa96020&x-expires=1780704000&x-signature=mAOC6RLQS3XBWAu71jVWU16feDc%3D",
+      "720": "https://p26-dreamina-sign.byteimg.com/tos-cn-i-tb4s082cfz/8ddfdd95b8f244ffb0fd678491a8e573~tplv-tb4s082cfz-aigc_resize_loss:720:720.webp?lk3s=4fa96020&x-expires=1780704000&x-signature=PsDGqxxwjFUfTykHm6YsjXvfHR0%3D",
+      "900": "https://p26-dreamina-sign.byteimg.com/tos-cn-i-tb4s082cfz/8ddfdd95b8f244ffb0fd678491a8e573~tplv-tb4s082cfz-aigc_resize_loss:900:900.webp?lk3s=4fa96020&x-expires=1780704000&x-signature=4y5%2B4xofFsUgWHXWl9qS66IBqCc%3D",
+      "smart_crop-w:160-h:213": "https://p11-dreamina-sign.byteimg.com/tos-cn-i-tb4s082cfz/8ddfdd95b8f244ffb0fd678491a8e573~tplv-tb4s082cfz-aigc_smart_crop:160:213.webp?lk3s=4fa96020&x-expires=1780704000&x-signature=UNG83EykjKNGqYWWdVwXOHGYJp8%3D",
+      "smart_crop-w:240-h:160": "https://p11-dreamina-sign.byteimg.com/tos-cn-i-tb4s082cfz/8ddfdd95b8f244ffb0fd678491a8e573~tplv-tb4s082cfz-aigc_smart_crop:240:160.webp?lk3s=4fa96020&x-expires=1780704000&x-signature=9O9MVrmeqGvrQ5%2FG%2BRJViZekd4U%3D",
+      "smart_crop-w:240-h:240": "https://p26-dreamina-sign.byteimg.com/tos-cn-i-tb4s082cfz/8ddfdd95b8f244ffb0fd678491a8e573~tplv-tb4s082cfz-aigc_smart_crop:240:240.webp?lk3s=4fa96020&x-expires=1780704000&x-signature=vVd7heSmNBvCY29mMUX2C5dhCdk%3D",
+      "smart_crop-w:320-h:320": "https://p11-dreamina-sign.byteimg.com/tos-cn-i-tb4s082cfz/8ddfdd95b8f244ffb0fd678491a8e573~tplv-tb4s082cfz-aigc_smart_crop:320:320.webp?lk3s=4fa96020&x-expires=1780704000&x-signature=0qWJQv2eG%2BJuuophhKoNqT0TEOo%3D",
+      "smart_crop-w:320-h:427": "https://p11-dreamina-sign.byteimg.com/tos-cn-i-tb4s082cfz/8ddfdd95b8f244ffb0fd678491a8e573~tplv-tb4s082cfz-aigc_smart_crop:320:427.webp?lk3s=4fa96020&x-expires=1780704000&x-signature=InxFHoMPKuTh9dEXXM7g55udVP0%3D",
+      "smart_crop-w:480-h:320": "https://p26-dreamina-sign.byteimg.com/tos-cn-i-tb4s082cfz/8ddfdd95b8f244ffb0fd678491a8e573~tplv-tb4s082cfz-aigc_smart_crop:480:320.webp?lk3s=4fa96020&x-expires=1780704000&x-signature=nblkdAXf%2BBmG2YjL9eLuUAEvpTw%3D",
+      "smart_crop-w:480-h:480": "https://p26-dreamina-sign.byteimg.com/tos-cn-i-tb4s082cfz/8ddfdd95b8f244ffb0fd678491a8e573~tplv-tb4s082cfz-aigc_smart_crop:480:480.webp?lk3s=4fa96020&x-expires=1780704000&x-signature=Tyn3pQi%2BgvU9iGxB4Gj1Ge7Pbh0%3D"
+    },
+    "web_extra": "{\"aigc_flow_version\":\"3.0.2\",\"_mweb_data_update_ts\":1768552963}",
+    "update_time": 1768552965,
+    "cover_uri": "tos-cn-i-tb4s082cfz/8ddfdd95b8f244ffb0fd678491a8e573",
+    "smart_crop_loc": null,
+    "cover_main_color": "#494944",
+    "cover_crop_loc": {
+      "bodys": [
+        [
+          0.11710069444444444,
+          0.2958984375,
+          0.5309027777777777,
+          0.86484375
+        ],
+        [
+          0.40520833333333334,
+          0.3880859375,
+          0.8791666666666667,
+          0.9046875
+        ]
+      ],
+      "faces": [],
+      "saliency": [
+        [
+          0.08425925925925926,
+          0.2994791666666667,
+          0.9046296296296297,
+          0.8822916666666667
+        ]
+      ]
+    },
+    "cover_height": 2048,
+    "cover_width": 1152,
+    "file": {
+      "file_uri": ""
+    }
+  },
+  "author": {
+    "name": "kiss·之倦",
+    "avatar_url": "https://p3-faceu-img-sign.byteimg.com/tos-cn-i-tb4s082cfz/b18fa928ee1a4ab49f6505433762b1b6~tplv-resize:200:200.webp?lk3s=4eecb9e8&x-expires=1780842240&x-signature=DT1aOw11n%2BNR96XKBGw7jjjSL0s%3D",
+    "uid": "4180804080248842",
+    "sec_uid": "MS4wLjABAAAAyzFXrFtkCRt82JNeqWyosMrGeYylJ-723dyfeuhplCIaVPGcg8u8S73jFlM0kohf",
+    "description": "",
+    "has_followed": false,
+    "followed_req_uid": false,
+    "status": 0,
+    "account_type": 0
+  },
+  "image": {
+    "format": "png",
+    "large_images": [
+      {
+        "image_uri": "tos-cn-i-tb4s082cfz/8ddfdd95b8f244ffb0fd678491a8e573",
+        "image_url": "https://p26-dreamina-sign.byteimg.com/tos-cn-i-tb4s082cfz/8ddfdd95b8f244ffb0fd678491a8e573~tplv-tb4s082cfz-aigc_resize:0:0.png?lk3s=4fa96020&x-expires=1780704000&x-signature=JI5jHmuAeNwgyIArjtSYHH2wpPk%3D",
+        "width": 1440,
+        "height": 2560,
+        "format": "png",
+        "smart_crop_loc": null,
+        "size": 1073354
+      }
+    ]
+  },
+  "aigc_image_params": {
+    "generate_type": 1,
+    "first_generate_type": 1,
+    "text2video_params": null,
+    "text2image_params": {
+      "image_ratio": 5,
+      "model_config": {
+        "icon_url": "",
+        "model_name_starling_key": "web_image_model_name_4_0_pro",
+        "model_tip_starling_key": "web_image_model_desc_4_0_pro",
+        "model_req_key": "high_aes_general_v40l",
+        "is_new_model": false,
+        "sample_steps": {
+          "steps": 16,
+          "min_steps": 10,
+          "max_steps": 41
+        },
+        "blend_enable": {
+          "face_swap": false,
+          "bg_paint": false,
+          "canny": false,
+          "depth": false,
+          "pose": false
+        },
+        "feats": [
+          "default_scene",
+          "t2i",
+          "byte_edit",
+          "refuse_image",
+          "smart_scale",
+          "per_piece",
+          "think_then_draw",
+          "byte_edit_with_empty_prompt",
+          "byte_edit_with_custom_ratio",
+          "etta",
+          "support_subject"
+        ],
+        "model_name": "图片 4.5",
+        "model_tip": "强化一致性、风格与图文响应",
+        "feature_key": "",
+        "generation_category_name_starling_key": "dreamina_app_modalswitch_image_4_0_pro",
+        "generation_category_name": "图片・4.5",
+        "duration_option": null,
+        "lens_motion_type_option": null,
+        "motion_speed_option": null,
+        "camera_strength_option": null,
+        "video_aspect_ratio_option": null,
+        "fps": 0,
+        "feat_config": {
+          "canny": {
+            "strength": 0.6
+          },
+          "depth": {
+            "strength": 0.6
+          },
+          "pose": {
+            "strength": 0.6
+          },
+          "style_reference": {
+            "strength": 0.8
+          }
+        },
+        "extra": {
+          "model_source": "by Seedream 4.5",
+          "raw_model_source": "Seedream 4.5"
+        },
+        "feats_cant_combine": [],
+        "model_bg_prompt_starling_key": "",
+        "resolution_map": {
+          "2k": {
+            "image_ratio_sizes": [
+              {
+                "ratio_type": 1,
+                "width": 2048,
+                "height": 2048
+              },
+              {
+                "ratio_type": 2,
+                "width": 1728,
+                "height": 2304
+              },
+              {
+                "ratio_type": 3,
+                "width": 2560,
+                "height": 1440
+              },
+              {
+                "ratio_type": 4,
+                "width": 2304,
+                "height": 1728
+              },
+              {
+                "ratio_type": 5,
+                "width": 1440,
+                "height": 2560
+              },
+              {
+                "ratio_type": 6,
+                "width": 1664,
+                "height": 2496
+              },
+              {
+                "ratio_type": 7,
+                "width": 2496,
+                "height": 1664
+              },
+              {
+                "ratio_type": 8,
+                "width": 3024,
+                "height": 1296
+              }
+            ],
+            "image_range_config": {
+              "min_length": 1296,
+              "max_length": 3024,
+              "max_pixel_num": 4194304
+            },
+            "resolution_name": "高清 2K"
+          },
+          "4k": {
+            "image_ratio_sizes": [
+              {
+                "ratio_type": 1,
+                "width": 4096,
+                "height": 4096
+              },
+              {
+                "ratio_type": 2,
+                "width": 3520,
+                "height": 4693
+              },
+              {
+                "ratio_type": 3,
+                "width": 5404,
+                "height": 3040
+              },
+              {
+                "ratio_type": 4,
+                "width": 4693,
+                "height": 3520
+              },
+              {
+                "ratio_type": 5,
+                "width": 3040,
+                "height": 5404
+              },
+              {
+                "ratio_type": 6,
+                "width": 3328,
+                "height": 4992
+              },
+              {
+                "ratio_type": 7,
+                "width": 4992,
+                "height": 3328
+              },
+              {
+                "ratio_type": 8,
+                "width": 6197,
+                "height": 2656
+              }
+            ],
+            "image_range_config": {
+              "min_length": 2048,
+              "max_length": 6240,
+              "max_pixel_num": 16777216
+            },
+            "resolution_name": "超清 4K"
+          }
+        },
+        "icon_url_svg": "https://p26-dreamina-sign.byteimg.com/tos-cn-i-tb4s082cfz/model-dreamina.svg~tplv-tb4s082cfz-image.image?lk3s=8e790bc3&x-expires=1809786240&x-signature=4YGP21f%2FjVUrsNzF6UwZmblzhmg%3D"
+      },
+      "prompt": "宿命感，故事感，be，有创意性，艺术气息，风格丙烯颜料，模糊 水彩画，绿色系，光影斑斓，气质，超高清画质，细节丰富，精致感强，朦胧，二次元，极致超清，极致细节，二次元氛围感，春天，高质量，极致细节，温柔透明，阳光普照，极致烂漫，极致治愈",
+      "sample_steps": 16,
+      "seed": 286247713,
+      "large_image_info": {
+        "height": 2560,
+        "width": 1440,
+        "resolution_type": "2k"
+      },
+      "sample_strength": 0.5
+    },
+    "template_id": "7593417600260984110",
+    "aigc_mode": "workbench",
+    "insta_drag_params": {
+      "origin_item_id": null
+    },
+    "hide_ref_images": false,
+    "reference_prompt": "丙烯颜料与模糊水彩结合的二次元风格，嫩绿与浅粉渐变的樱花树下，一对身着春装的男女背身而立，衣摆和发丝被微风轻轻吹起，背景散落飘落的樱花花瓣。绿色系为主，斑驳的阳光透过树叶洒下，光影斑斓，画面朦胧温柔，透明质感，阳光普照，极致烂漫，细节丰富，精致感强，超高清画质，二次元氛围感，宿命感与故事感交织，be结局的淡淡哀伤，艺术气息浓厚，极致治愈。",
+    "image_type": 3
+  },
+  "statistic": {
+    "usage_num": 107,
+    "favorite_num": 601,
+    "play_num": 0
+  },
+  "category_id_list": [],
+  "aigc_flow": {
+    "version": "3.0.2"
+  },
+  "ref_item": {
+    "common_attr": {
+      "id": "7593417600260984110",
+      "effect_id": "7593417600260984110",
+      "effect_type": 9,
+      "description": "",
+      "cover_url": "https://p11-dreamina-sign.byteimg.com/tos-cn-i-tb4s082cfz/7e44d2fe0d684f3c84c1d8924c0fa924~tplv-tb4s082cfz-aigc_resize:640:640.jpeg?lk3s=4fa96020&x-expires=1809786240&x-signature=gzO7T7Ka6aOWb%2FuUBSs%2FLAVszsI%3D",
+      "cover_url_map": null,
+      "smart_crop_loc": null,
+      "status": 102,
+      "title": ""
+    },
+    "author": {
+      "name": "一起晒星空",
+      "avatar_url": "https://p6-faceu-img-sign.byteimg.com/tos-cn-i-tb4s082cfz/6f6e69ec601848e5a7d668212765b1a9~tplv-resize:200:200.webp?lk3s=4eecb9e8&x-expires=1780842240&x-signature=PaAwMmkjGDjIsvueTgM0PJBYTjM%3D",
+      "uid": "1594751630717850",
+      "sec_uid": "MS4wLjABAAAAv4d3vaecceVGceMzL0tVivT0C7z8z2ixnju91Tl1nMqvKAmNZAterRVhoRrInQ_i",
+      "description": "🎈💭💚🌼🌿🍒🌸⭐️🍀💜💎💗🌨💫♥️🦋🌱🌷🌺🌹🌻🐚🍄🍁🍃🍂☀️🌦❄️☃️",
+      "has_followed": false,
+      "followed_req_uid": false,
+      "status": 0,
+      "account_type": 0
+    },
+    "feature": "",
+    "extra": {
+      "template_type": "image",
+      "ai_feature": "text_generate_image"
+    }
+  },
+  "aigc_draft": {
+    "version": "3.0.2",
+    "uri": "aigc-draft/6731265250060",
+    "content": "{\"type\":\"draft\",\"id\":\"993fcd11-4a80-4882-a165-c6cea7a3b1be\",\"min_version\":\"3.0.2\",\"min_features\":[],\"is_from_tsn\":true,\"version\":\"3.0.2\",\"main_component_id\":\"719cfd12-e6fb-4b05-8147-054738a26e07\",\"component_list\":[{\"type\":\"image_base_component\",\"id\":\"719cfd12-e6fb-4b05-8147-054738a26e07\",\"min_version\":\"3.0.2\",\"aigc_mode\":\"workbench\",\"gen_type\":1,\"metadata\":{\"type\":\"\",\"id\":\"d1ac4174-da07-4a54-a731-c666d917c1da\",\"created_platform\":2,\"created_platform_version\":\"2011600\",\"created_time_in_ms\":\"1768151297183\",\"created_did\":\"\"},\"generate_type\":\"generate\",\"abilities\":{\"type\":\"\",\"id\":\"0a770cc9-ae07-479f-af2c-cee99b494739\",\"generate\":{\"type\":\"\",\"id\":\"8efe388b-676e-46aa-9290-86ca6f702f44\",\"core_param\":{\"type\":\"\",\"id\":\"9579e8d8-b438-4399-921c-014ba3692bd5\",\"model\":\"high_aes_general_v40l\",\"prompt\":\"宿命感，故事感，be，有创意性，艺术气息，风格丙烯颜料，模糊 水彩画，绿色系，光影斑斓，气质，超高清画质，细节丰富，精致感强，朦胧，二次元，极致超清，极致细节，二次元氛围感，春天，高质量，极致细节，温柔透明，阳光普照，极致烂漫，极致治愈\",\"seed\":286247713,\"sample_strength\":0.5,\"image_ratio\":5,\"large_image_info\":{\"type\":\"\",\"id\":\"0e580bbe-6a25-4987-b951-f08efa8ce96f\",\"height\":2560,\"width\":1440,\"format\":\"jpg\",\"resolution_type\":\"2k\"}}},\"gen_option\":{\"type\":\"\",\"id\":\"874e8d73-d2a7-462a-ae5e-e801cc7c02f2\",\"is_need_confirm\":false}}}]}",
+    "update_time": 0,
+    "last_preview_time": 0,
+    "resource_type": "",
+    "public_uri": "",
+    "variables": null,
+    "resource_width": 0,
+    "resource_height": 0,
+    "node_keys": null,
+    "cost": 0
+  },
+  "extra": {
+    "template_type": "image",
+    "ai_feature": "text_generate_image"
+  },
+  "ai_feature": {
+    "features": [
+      {
+        "type": "text_generate_image"
+      }
+    ],
+    "is_merged": true
+  },
+  "sharing_info": {
+    "share_status": 3,
+    "hash_tags": [
+      {
+        "id": "7057780640736939294",
+        "name": "画作",
+        "tag_id": ""
+      }
+    ]
+  },
+  "metadata_param": "{\"effect_id\":\"7593417600260984110\",\"effect_type\":\"template\"}"
+}

@@ -1,0 +1,354 @@
+{
+  "common_attr": {
+    "id": "7636071132088503602",
+    "effect_id": "7636071132088503602",
+    "effect_type": 9,
+    "title": "",
+    "description": "",
+    "cover_url": "https://p26-dreamina-sign.byteimg.com/tos-cn-i-tb4s082cfz/12ec849f54ca4925aacd02cd8611b80f~tplv-tb4s082cfz-aigc_resize:2048:2048.webp?lk3s=4fa96020&x-expires=1780704000&x-signature=eLy%2F%2BYqDWTxdQWK4wBDA7rgWTUE%3D",
+    "item_urls": [
+      ""
+    ],
+    "md5": "",
+    "create_time": 1777911359,
+    "status": 102,
+    "review_info": {
+      "review_status": 100,
+      "review_code_list": []
+    },
+    "aspect_ratio": 0.5625,
+    "publish_source": "user_post_mweb_item",
+    "collection_ids": [],
+    "extra": "{\"eco_rate\":0,\"new_motivation_llm\":{\"uni_motivation_llm_id\":\"-1\",\"uni_motivation_llm_name\":\"其他\"},\"web_rate\":10,\"web_eco_rate\":0,\"scenario_card_ids\":[7520548525021711641],\"rate\":12}",
+    "has_published": true,
+    "published_item_id": "7636071132088503602",
+    "cover_url_map": {
+      "1080": "https://p26-dreamina-sign.byteimg.com/tos-cn-i-tb4s082cfz/12ec849f54ca4925aacd02cd8611b80f~tplv-tb4s082cfz-aigc_resize_loss:1080:1080.webp?lk3s=4fa96020&x-expires=1780704000&x-signature=Wq%2B5x8H5HYBx9Ugja9qaA%2FJUUbE%3D",
+      "2048": "https://p11-dreamina-sign.byteimg.com/tos-cn-i-tb4s082cfz/12ec849f54ca4925aacd02cd8611b80f~tplv-tb4s082cfz-aigc_resize:2048:2048.webp?lk3s=4fa96020&x-expires=1780704000&x-signature=fHhYy5BABYKWnmi4oFyFnnRlbf8%3D",
+      "360": "https://p11-dreamina-sign.byteimg.com/tos-cn-i-tb4s082cfz/12ec849f54ca4925aacd02cd8611b80f~tplv-tb4s082cfz-aigc_resize_loss:360:360.webp?lk3s=4fa96020&x-expires=1780704000&x-signature=Et8gU1u%2FHOK3Nl7LvWzhjaqOWv0%3D",
+      "480": "https://p11-dreamina-sign.byteimg.com/tos-cn-i-tb4s082cfz/12ec849f54ca4925aacd02cd8611b80f~tplv-tb4s082cfz-aigc_resize_loss:480:480.webp?lk3s=4fa96020&x-expires=1780704000&x-signature=S1WCZ8e%2BceKP%2B2UB0eBEtARZpuE%3D",
+      "720": "https://p26-dreamina-sign.byteimg.com/tos-cn-i-tb4s082cfz/12ec849f54ca4925aacd02cd8611b80f~tplv-tb4s082cfz-aigc_resize_loss:720:720.webp?lk3s=4fa96020&x-expires=1780704000&x-signature=qvbnXLEgmv1%2BrU10fvm1HsDTaiA%3D",
+      "900": "https://p11-dreamina-sign.byteimg.com/tos-cn-i-tb4s082cfz/12ec849f54ca4925aacd02cd8611b80f~tplv-tb4s082cfz-aigc_resize_loss:900:900.webp?lk3s=4fa96020&x-expires=1780704000&x-signature=XVFU%2Bnt95fsIsx%2B109ieWqDLtTk%3D",
+      "smart_crop-w:160-h:213": "https://p26-dreamina-sign.byteimg.com/tos-cn-i-tb4s082cfz/12ec849f54ca4925aacd02cd8611b80f~tplv-tb4s082cfz-aigc_smart_crop:160:213.webp?lk3s=4fa96020&x-expires=1780704000&x-signature=eqdCTQKr784pgRtr2L6M6dZxPbU%3D",
+      "smart_crop-w:240-h:160": "https://p11-dreamina-sign.byteimg.com/tos-cn-i-tb4s082cfz/12ec849f54ca4925aacd02cd8611b80f~tplv-tb4s082cfz-aigc_smart_crop:240:160.webp?lk3s=4fa96020&x-expires=1780704000&x-signature=9pOAS9rhS32AxUisHOcopKinL9k%3D",
+      "smart_crop-w:240-h:240": "https://p11-dreamina-sign.byteimg.com/tos-cn-i-tb4s082cfz/12ec849f54ca4925aacd02cd8611b80f~tplv-tb4s082cfz-aigc_smart_crop:240:240.webp?lk3s=4fa96020&x-expires=1780704000&x-signature=gpg%2FSFqlBghRjAzq5OO8DN3kd1Y%3D",
+      "smart_crop-w:320-h:320": "https://p26-dreamina-sign.byteimg.com/tos-cn-i-tb4s082cfz/12ec849f54ca4925aacd02cd8611b80f~tplv-tb4s082cfz-aigc_smart_crop:320:320.webp?lk3s=4fa96020&x-expires=1780704000&x-signature=UvpwRMkmLwsAn1CQgFC4WJmPPVU%3D",
+      "smart_crop-w:320-h:427": "https://p11-dreamina-sign.byteimg.com/tos-cn-i-tb4s082cfz/12ec849f54ca4925aacd02cd8611b80f~tplv-tb4s082cfz-aigc_smart_crop:320:427.webp?lk3s=4fa96020&x-expires=1780704000&x-signature=DpraleoJ7nn6Iz%2Fn7Efifrw%2BzgQ%3D",
+      "smart_crop-w:480-h:320": "https://p11-dreamina-sign.byteimg.com/tos-cn-i-tb4s082cfz/12ec849f54ca4925aacd02cd8611b80f~tplv-tb4s082cfz-aigc_smart_crop:480:320.webp?lk3s=4fa96020&x-expires=1780704000&x-signature=7XWw9GbTV9%2F8cLHNZBqkbozr9Zk%3D",
+      "smart_crop-w:480-h:480": "https://p11-dreamina-sign.byteimg.com/tos-cn-i-tb4s082cfz/12ec849f54ca4925aacd02cd8611b80f~tplv-tb4s082cfz-aigc_smart_crop:480:480.webp?lk3s=4fa96020&x-expires=1780704000&x-signature=DV2X%2Fsqbr5HNvBQ0JIPItnXfd38%3D"
+    },
+    "web_extra": "{\"aigc_flow_version\":\"3.0.2\",\"_mweb_data_update_ts\":1778225295}",
+    "update_time": 1778225295,
+    "cover_uri": "tos-cn-i-tb4s082cfz/12ec849f54ca4925aacd02cd8611b80f",
+    "smart_crop_loc": null,
+    "cover_main_color": "#191611",
+    "cover_crop_loc": {
+      "bodys": [
+        [
+          0.034505208333333336,
+          0.29160156616797817,
+          0.9861111111111112,
+          0.9320312646719126
+        ]
+      ],
+      "faces": [],
+      "saliency": [
+        [
+          0,
+          0.29627403846153844,
+          1,
+          1
+        ]
+      ]
+    },
+    "cover_height": 1664,
+    "cover_width": 936,
+    "file": {
+      "file_uri": ""
+    }
+  },
+  "author": {
+    "name": "陌紫",
+    "avatar_url": "https://p3-faceu-img-sign.byteimg.com/tos-cn-i-tb4s082cfz/60c9563779964ecd97dbc6c79cbc87e7~tplv-resize:200:200.webp?lk3s=4eecb9e8&x-expires=1780842317&x-signature=A%2F8TAz83M9BkwkjNoHWN8%2BpzVcM%3D",
+    "uid": "3222031976641807",
+    "sec_uid": "MS4wLjABAAAAPHok6O37VH_A39kZ81e0xcX_QlgG5r9Gh9-K_txWNnQaQuCBKAiIGXloR6s8G72Y",
+    "description": "",
+    "has_followed": false,
+    "followed_req_uid": false,
+    "status": 0,
+    "account_type": 0
+  },
+  "image": {
+    "format": "png",
+    "large_images": [
+      {
+        "image_uri": "tos-cn-i-tb4s082cfz/12ec849f54ca4925aacd02cd8611b80f",
+        "image_url": "https://p26-dreamina-sign.byteimg.com/tos-cn-i-tb4s082cfz/12ec849f54ca4925aacd02cd8611b80f~tplv-tb4s082cfz-aigc_resize:0:0.png?lk3s=4fa96020&x-expires=1780704000&x-signature=bEtEGygy0jUENsfTkD3zc4TEYrk%3D",
+        "width": 936,
+        "height": 1664,
+        "format": "png",
+        "smart_crop_loc": null,
+        "size": 616999
+      }
+    ]
+  },
+  "aigc_image_params": {
+    "generate_type": 1,
+    "first_generate_type": 1,
+    "text2video_params": null,
+    "text2image_params": {
+      "image_ratio": 5,
+      "model_config": {
+        "icon_url": "",
+        "model_name_starling_key": "dre_t2i_model_3_1",
+        "model_tip_starling_key": "dre_t2i_model_3_1_desc",
+        "model_req_key": "high_aes_general_v30l_art_fangzhou:general_v3.0_18b",
+        "is_new_model": false,
+        "sample_steps": {
+          "steps": 16,
+          "min_steps": 10,
+          "max_steps": 41
+        },
+        "blend_enable": {
+          "face_swap": true,
+          "bg_paint": true,
+          "canny": false,
+          "depth": false,
+          "pose": false
+        },
+        "feats": [
+          "default_scene",
+          "etta",
+          "t2i",
+          "character",
+          "face_swap",
+          "bg_paint"
+        ],
+        "model_name": "图片 3.1",
+        "model_tip": "丰富的美学多样性，画面更鲜明生动",
+        "feature_key": "",
+        "generation_category_name_starling_key": "dreamina_app_modalswitch_image_3_1",
+        "generation_category_name": "图片・3.1 ",
+        "duration_option": null,
+        "lens_motion_type_option": null,
+        "motion_speed_option": null,
+        "camera_strength_option": null,
+        "video_aspect_ratio_option": null,
+        "fps": 0,
+        "feat_config": {
+          "canny": {
+            "strength": 0.6
+          },
+          "depth": {
+            "strength": 0.6
+          },
+          "pose": {
+            "strength": 0.6
+          },
+          "style_reference": {
+            "strength": 0.8
+          }
+        },
+        "extra": {
+          "model_source": "by Seedream 3.0",
+          "raw_model_source": "Seedream 3.0"
+        },
+        "feats_cant_combine": [
+          [
+            "byte_edit",
+            "byte_edit"
+          ]
+        ],
+        "model_bg_prompt_starling_key": "",
+        "resolution_map": {
+          "1k": {
+            "image_ratio_sizes": [
+              {
+                "ratio_type": 1,
+                "width": 1328,
+                "height": 1328
+              },
+              {
+                "ratio_type": 2,
+                "width": 1104,
+                "height": 1472
+              },
+              {
+                "ratio_type": 3,
+                "width": 1664,
+                "height": 936
+              },
+              {
+                "ratio_type": 4,
+                "width": 1472,
+                "height": 1104
+              },
+              {
+                "ratio_type": 5,
+                "width": 936,
+                "height": 1664
+              },
+              {
+                "ratio_type": 6,
+                "width": 1056,
+                "height": 1584
+              },
+              {
+                "ratio_type": 7,
+                "width": 1584,
+                "height": 1056
+              },
+              {
+                "ratio_type": 8,
+                "width": 2016,
+                "height": 864
+              }
+            ],
+            "image_range_config": {
+              "min_length": 512,
+              "max_length": 2016,
+              "max_pixel_num": 1763584
+            },
+            "resolution_name": "标清 1K"
+          },
+          "2k": {
+            "image_ratio_sizes": [
+              {
+                "ratio_type": 1,
+                "width": 2048,
+                "height": 2048
+              },
+              {
+                "ratio_type": 2,
+                "width": 1728,
+                "height": 2304
+              },
+              {
+                "ratio_type": 3,
+                "width": 2560,
+                "height": 1440
+              },
+              {
+                "ratio_type": 4,
+                "width": 2304,
+                "height": 1728
+              },
+              {
+                "ratio_type": 5,
+                "width": 1440,
+                "height": 2560
+              },
+              {
+                "ratio_type": 6,
+                "width": 1664,
+                "height": 2496
+              },
+              {
+                "ratio_type": 7,
+                "width": 2496,
+                "height": 1664
+              },
+              {
+                "ratio_type": 8,
+                "width": 3024,
+                "height": 1296
+              }
+            ],
+            "image_range_config": {
+              "min_length": 1296,
+              "max_length": 3024,
+              "max_pixel_num": 4194304
+            },
+            "resolution_name": "高清 2K"
+          }
+        },
+        "icon_url_svg": "https://p11-dreamina-sign.byteimg.com/tos-cn-i-tb4s082cfz/model-dreamina.svg~tplv-tb4s082cfz-image.image?lk3s=8e790bc3&x-expires=1809786316&x-signature=Uhxw2C7uAkxfpFqajptX6elUSOs%3D"
+      },
+      "prompt": "非人生物（1.6）仙侠鬼魅，背景宏大场景，随机生物体组合，复杂设计层次分明的怪异暗金鎏金，银丝以哥特式纹路嵌入，极繁主义细节，极复杂唯美的刻纹，精细的描绘其的每一个金属部件，展现其外部复杂精细的各种构造，细节美观，花纹拥有独特的立体感，\n雕塑风格，虚幻引擎渲染，远景，广角镜头，全身镜头，超清。低角度仰拍。超广角强透视构图，张力十足，压迫感，细节生动完美。极其震撼的一幕，视觉冲击力强，光影彼此交织错杂的梦幻感，明暗对比强烈，阴影过渡自然，电影级构图，视觉冲击，8K画质，超清，极致细节，清晰的线条，高对比，大师级别的作品。立体渲染，精细画笔，超细腻笔触，线条流畅，超清画质，完美品质，高质量，自适应饱和度，专业级打光，大师杰作，自由视角，阴影过渡自然，氛围感，高级感，意境，亮闪，唯美，宿命感拉满，弥散粒子，画面具有层次感。视觉冲击，故事感，高级感，动态感。",
+      "seed": 1094477553,
+      "large_image_info": {
+        "height": 1664,
+        "width": 936,
+        "resolution_type": "1k"
+      },
+      "sample_strength": 0.3,
+      "use_pe": false,
+      "schedule_conf": "base",
+      "actual_prompt": "非人生物（1.6）仙侠鬼魅，背景宏大场景，随机生物体组合，复杂设计层次分明的怪异暗金鎏金，银丝以哥特式纹路嵌入，极繁主义细节，极复杂唯美的刻纹，精细的描绘其的每一个金属部件，展现其外部复杂精细的各种构造，细节美观，花纹拥有独特的立体感，\n雕塑风格，虚幻引擎渲染，远景，广角镜头，全身镜头，超清。低角度仰拍。超广角强透视构图，张力十足，压迫感，细节生动完美。极其震撼的一幕，视觉冲击力强，光影彼此交织错杂的梦幻感，明暗对比强烈，阴影过渡自然，电影级构图，视觉冲击，8K画质，超清，极致细节，清晰的线条，高对比，大师级别的作品。立体渲染，精细画笔，超细腻笔触，线条流畅，超清画质，完美品质，高质量，自适应饱和度，专业级打光，大师杰作，自由视角，阴影过渡自然，氛围感，高级感，意境，亮闪，唯美，宿命感拉满，弥散粒子，画面具有层次感。视觉冲击，故事感，高级感，动态感。"
+    },
+    "template_id": "7633753315024637193",
+    "aigc_mode": "workbench",
+    "insta_drag_params": {
+      "origin_item_id": null
+    },
+    "hide_ref_images": false
+  },
+  "statistic": {
+    "usage_num": 10,
+    "favorite_num": 40,
+    "play_num": 0
+  },
+  "category_id_list": [],
+  "aigc_flow": {
+    "version": "3.0.2"
+  },
+  "ref_item": {
+    "common_attr": {
+      "id": "7633753315024637193",
+      "effect_id": "7633753315024637193",
+      "effect_type": 9,
+      "description": "",
+      "cover_url": "https://p11-dreamina-sign.byteimg.com/tos-cn-i-tb4s082cfz/8cf136ad5d8a48debf05d47b1a1fc1af~tplv-tb4s082cfz-aigc_resize:640:640.jpeg?lk3s=4fa96020&x-expires=1809786317&x-signature=Q6lSfBv8KjdiGrSuO4lHfqYaLi4%3D",
+      "cover_url_map": null,
+      "smart_crop_loc": null,
+      "status": 102,
+      "title": ""
+    },
+    "author": {
+      "name": "记得晚安、",
+      "avatar_url": "https://p3-faceu-img-sign.byteimg.com/tos-cn-i-tb4s082cfz/cdf1c0970aed4d188bf41365586451a6~tplv-resize:200:200.webp?lk3s=4eecb9e8&x-expires=1780842317&x-signature=edNiQfnnwSUV5IO6L60OwyuWLPA%3D",
+      "uid": "3636828173514056",
+      "sec_uid": "MS4wLjABAAAAWedqHJH33XkUagbbPGKOcewHLiGK4k3QLuAfEnaiD59IdxMapUVdeutHmR3zmh5Z",
+      "description": "",
+      "has_followed": false,
+      "followed_req_uid": false,
+      "status": 0,
+      "account_type": 0
+    },
+    "feature": "",
+    "extra": {
+      "template_type": "image",
+      "ai_feature": "text_generate_image"
+    }
+  },
+  "aigc_draft": {
+    "version": "3.0.2",
+    "uri": "aigc-draft/12574302714892",
+    "content": "{\"type\":\"draft\",\"id\":\"F0A1538E-1E5B-4B63-AED5-834CE8A5C090\",\"min_version\":\"3.0.2\",\"min_features\":[],\"is_from_tsn\":true,\"version\":\"3.0.2\",\"main_component_id\":\"B9F908A1-6485-4AD3-8924-A954674A907F\",\"component_list\":[{\"type\":\"image_base_component\",\"id\":\"B9F908A1-6485-4AD3-8924-A954674A907F\",\"min_version\":\"3.0.2\",\"aigc_mode\":\"workbench\",\"gen_type\":1,\"metadata\":{\"type\":\"\",\"id\":\"32DD2EFD-900B-4FBE-BCFF-9EE2D67C6E97\",\"created_platform\":1,\"created_platform_version\":\"2.1.8.91\",\"created_time_in_ms\":\"1777905077127\",\"created_did\":\"\"},\"generate_type\":\"generate\",\"abilities\":{\"type\":\"\",\"id\":\"7B9E9020-CF91-4A77-8B22-8540B7934AC7\",\"generate\":{\"type\":\"\",\"id\":\"B3A7EF3A-963A-4997-BAD1-C2C5F155A23F\",\"core_param\":{\"type\":\"\",\"id\":\"DFA1D95D-8544-4AA2-B33D-B5985745A076\",\"model\":\"high_aes_general_v30l_art_fangzhou:general_v3.0_18b\",\"prompt\":\"非人生物（1.6）仙侠鬼魅，背景宏大场景，随机生物体组合，复杂设计层次分明的怪异暗金鎏金，银丝以哥特式纹路嵌入，极繁主义细节，极复杂唯美的刻纹，精细的描绘其的每一个金属部件，展现其外部复杂精细的各种构造，细节美观，花纹拥有独特的立体感，\\n雕塑风格，虚幻引擎渲染，远景，广角镜头，全身镜头，超清。低角度仰拍。超广角强透视构图，张力十足，压迫感，细节生动完美。极其震撼的一幕，视觉冲击力强，光影彼此交织错杂的梦幻感，明暗对比强烈，阴影过渡自然，电影级构图，视觉冲击，8K画质，超清，极致细节，清晰的线条，高对比，大师级别的作品。立体渲染，精细画笔，超细腻笔触，线条流畅，超清画质，完美品质，高质量，自适应饱和度，专业级打光，大师杰作，自由视角，阴影过渡自然，氛围感，高级感，意境，亮闪，唯美，宿命感拉满，弥散粒子，画面具有层次感。视觉冲击，故事感，高级感，动态感。\",\"seed\":1094477553,\"sample_strength\":0.3,\"image_ratio\":5,\"large_image_info\":{\"type\":\"\",\"id\":\"52B9F177-5CA7-4C1E-B952-140BEEF2394F\",\"height\":1664,\"width\":936,\"resolution_type\":\"1k\"},\"generate_type\":0}}}}]}",
+    "update_time": 0,
+    "last_preview_time": 0,
+    "resource_type": "",
+    "public_uri": "",
+    "variables": null,
+    "resource_width": 0,
+    "resource_height": 0,
+    "node_keys": null,
+    "cost": 0
+  },
+  "extra": {
+    "template_type": "image",
+    "ai_feature": "text_generate_image"
+  },
+  "ai_feature": {
+    "features": [
+      {
+        "type": "text_generate_image"
+      }
+    ],
+    "is_merged": true
+  },
+  "sharing_info": {
+    "share_status": 3
+  },
+  "metadata_param": "{\"effect_id\":\"7633753315024637193\",\"effect_type\":\"template\"}"
+}
