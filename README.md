@@ -1,5 +1,8 @@
 # 即梦视频无水印解析工具
 
+![Contributors](https://img.shields.io/github/contributors/majiabin2020/jimeng-video-watermark-remover)
+![License](https://img.shields.io/github/license/majiabin2020/jimeng-video-watermark-remover)
+
 一个用于解析即梦（Jimeng）APP生成的AI视频并去除水印的工具。支持静态水印和动态水印（尾部水印）的去除，提供无水印视频下载。
 
 ## 功能特性
