@@ -87,6 +87,10 @@ npm start
 npm run release
 ```
 
+## 贡献者
+
+- [majiabin2020](https://github.com/majiabin2020) - 项目创建者和主要维护者
+
 ## 许可证
 
 MIT许可证 - 详见 [LICENSE](LICENSE) 文件
